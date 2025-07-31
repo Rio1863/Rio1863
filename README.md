@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="./assets/Once Piece Wallpaper.jpg" width="25%" align="right" />
-<img src="./assets/waving.gif" width="60" height="60" alt="Waving hand" />
+<img src="./assets/nezuko.jpg" width="25%" align="right" />
+<img src="./assets/waving.gif" width="100" height="100" border-radius="10%" alt="Waving hand" />
 
 ### Hi there! I'm Rio 👋
 
