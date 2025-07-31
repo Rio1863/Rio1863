@@ -1,10 +1,13 @@
 <div align="center">
 
 <img src="./assets/Once Piece Wallpaper.jpg" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Rio%2C+a+code+explorer+and+problem+solver+⚡" width="70%" />
+<img src="./assets/waving.gif" width="60" height="60" alt="Waving hand" />
+
+### Hi there! I'm Rio 👋
+
 <br><br>
 
-
+---
 
 
 ### 🧰 My Tech Toolbox
@@ -31,7 +34,10 @@
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white" />
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans&logoColor=white" />
 </p>
-<br>
+
+---
+
+### Thanks for visiting 
 
 
 
