@@ -35,8 +35,9 @@
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans&logoColor=white" />
 </p>
 
----
+<br><br>
 
+---
 ### Thanks for visiting 
 
 
