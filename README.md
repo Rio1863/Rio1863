@@ -1,17 +1,15 @@
 <div align="center">
 
 <img src="./assets/nezuko.jpg" width="25%" align="right" />
-<img src="./assets/waving.gif" width="100" height="100" border-radius="10%" alt="Waving hand" />
 
-### Hi there! I'm Rio 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=45&duration=3500&pause=400&color=58A6FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Welcome+to+my+Github+Profile;I'm+Rio%2C+building+magic+with+code+%F0%9F%93%B1" width="70%" />
 
 <br><br>
 
 ---
 
-
 ### 🧰 My Tech Toolbox
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -35,10 +33,8 @@
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans&logoColor=white" />
 </p>
 
-
 ---
+
 ### Thanks for visiting 
-
-
 
 </div>
