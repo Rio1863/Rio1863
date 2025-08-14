@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="./assets/nezuko.jpg" width="25%" align="right" />
-
-
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=45&duration=3500&pause=400&color=58A6FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Welcome+to+my+Github+Profile;I'm+Rio%2C+building+magic+with+code+%F0%9F%93%B1" width="70%" />
 
 <br><br>
