@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=45&duration=3500&pause=400&color=58A6FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Welcome+to+my+Github+Profile;I'm+Rio%2C+building+magic+with+code+%F0%9F%93%B1" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=45&duration=3500&pause=400&color=58A6FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Welcome+to+my+Github+Profile;I'm+Rio%2C+building+magic+with+code" width="70%" />
 
 <br><br>
 
@@ -11,10 +11,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-EF4135?style=flat&logo=laravel&logoColor=white" />
   <br>
@@ -23,8 +21,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans&logoColor=white" />
 </p>
 
 ---
